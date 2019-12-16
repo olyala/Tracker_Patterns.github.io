@@ -22,7 +22,7 @@ A cookie is a small text file that is stored within the memory of a personal dev
 - *Persistent Cookies*-
   -This type of cookie has a long lifespan and can be kept for a persistently long period of time storing user data and logging online user behavior.  
 
-
+<h3>Tracker Bloclers</h3>
 
 
 
