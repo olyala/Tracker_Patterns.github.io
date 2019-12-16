@@ -4,8 +4,12 @@
 
 What are Web trackers?
 
-![Overall Connective graph Perspective between websites and their affiliated trackers](Screen Shot 2019-12-13 at 2.29.13 PM.png)
+- Web tracking is the practice by which operators of websites, collect, store, and share information about a particular user’s activities on the World Wide Web.
 
+<br />
+
+How does web tracking work?
+- When someone uses the internet, they leave a record or <i>footprint</i> of the websites they visit, along with every single thing clicked. 
 
 
 
