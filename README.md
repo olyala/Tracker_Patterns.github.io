@@ -23,7 +23,7 @@ A cookie is a small text file that is stored within the memory of a personal dev
   -This type of cookie has a long lifespan and can be kept for a persistently long period of time storing user data and logging online user behavior.  
 
 <h3>Tracker Blockers</h3>
-
+Tracker blockers such as Ghostery and Privacy Badger are made to block any trackers that are affiliated with specific websites a user might visit. They provide the names of the trackers and more data such as data collected, data shared, and data retention.
 
 
 
