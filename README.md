@@ -2,15 +2,16 @@
 
 -----------------------------------------------------------------------------------------------------
 
-#### What are Web trackers?
+<h4>What are Web trackers?</h4>
 
 - Web tracking is the practice by which operators of websites, collect, store, and share information about a particular user’s activities on the World Wide Web.
 
-#### How does web tracking work?
+<h4>How does web tracking work?</h4>
 - When someone uses the internet, they leave a record or <i>footprint</i> of the websites they visit, along with every single thing clicked. 
 
-#### What are cookies?
+<h4>What are cookies?</h4>
 A cookie is a small text file that is stored within the memory of a personal device of a web users’ computer, mobile device, tablet, or any other device connected to the World Wide Web. These cookies all have varied shelf-lives starting at the very moment the cookie is stored onto a user’s personal users computer
+
 - *first-Party Cookies*
   -These types of cookies come from the website a user is directly visiting and are not malicious. The default setting allow first-party cookies are allowed in any web browser. This default option can be disabled according to the user preferences. First-party cookies make the Web users experience convenient, readable, and efficient thus become more beneficial than harmful.
 - *Third-Pary Cookies*
